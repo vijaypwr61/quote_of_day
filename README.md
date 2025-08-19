@@ -31,7 +31,7 @@ git clone https://github.com/vijaypwr61/quote_of_day.git
 cd quote_of_day
 flutter pub get
 flutter run
-
+```
 ## 🛠 Tech Stack
 - **Flutter** (UI toolkit)  
 - **Dart** (programming language)  
