@@ -48,3 +48,11 @@ flutter run
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
+---
+
+## ⚠️ Disclaimer on Quotes
+This app uses quotes sourced from [dwyl/quotes](https://github.com/dwyl/quotes), which are made available as an open dataset.  
+I do not claim ownership of the quotes. They remain the property of their respective authors.  
+
+If you fork, modify, or redistribute this project, please ensure you **retain this credit and disclaimer** to avoid copyright or attribution issues.
+
