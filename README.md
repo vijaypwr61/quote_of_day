@@ -1,16 +1,33 @@
-# quote_of_day
+# 📖 Quote of the Day App
 
-Quote of day is an application that inspires you for a day.
+A simple Flutter app that displays a random inspirational quote with smooth animations and elegant typography.  
+Built with ❤️ using Flutter and Google Fonts.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 🎨 Clean and minimal design  
+- 🔤 Beautiful typography (Playfair Display)  
+- 🌈 Elegant color scheme (blue + cream/white)  
+- 🎬 Smooth slide + fade animations for quote and author  
+- 📚 Quotes stored in local JSON file  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots
+(Add screenshots here after capturing from emulator/real device)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) installed  
+- A working Android/iOS emulator or physical device  
+
+### Installation
+```bash
+git clone https://github.com/vijaypwr61/quote_of_day.git
+cd quote_of_day
+flutter pub get
+flutter run
