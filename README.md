@@ -31,3 +31,20 @@ git clone https://github.com/vijaypwr61/quote_of_day.git
 cd quote_of_day
 flutter pub get
 flutter run
+
+## 🛠 Tech Stack
+- **Flutter** (UI toolkit)  
+- **Dart** (programming language)  
+- **Google Fonts**  
+- **Local JSON assets**  
+
+---
+
+## 🙌 Credits
+- Quotes sourced from [dwyl/quotes](https://github.com/dwyl/quotes)  
+- Developed by [Vijay Pawar](https://github.com/vijaypwr61)  
+
+---
+
+## 📄 License
+This project is open source and available under the [MIT License](LICENSE).
